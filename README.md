@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ASBANESHJOEL/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ASBANESHJOEL/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ASBANESHJOEL/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
