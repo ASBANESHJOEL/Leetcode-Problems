@@ -26,9 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ASBANESH_JOEL?theme=dark&border=2&radius=10&font=Baloo)
 
-
 </div>
-
-
 
 <!---LeetCode Topics End-->
